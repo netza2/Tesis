@@ -1,0 +1,32 @@
+Agregar Rule a conexión (no sé si es necesario) https://stackoverflow.com/questions/5906441/how-to-ssh-to-a-virtualbox-guest-externally-through-a-host  
+Crear conexion tipo bridge Modificar archivo /etc/ssh/sshd_config 
+Especificar puerto (tiene que ver con rule?) https://thishosting.rocks/how-to-enable-ssh-on-ubuntu/   
+
+
+Instalar ubuntu minimal en VirtualBox 
+Instalar openssh-server en la Virtual Machine y en el Host 
+Apagar, configurar conexión tipo puente 
+Revisar dirección IP "hostname -I" 
+Modificar archivo "vim /etc/ssh/sshd_config" y configurar un puerto  
+Para correr jupyter notebook: 
+jupyter notebook --ip=0.0.0.0 --no-browser 
+jupyter lab --ip=0.0.0.0 --no-browser  
+
+Conectar con ssh user@ip -pPort desde windows  
+Copiar archivos del Guest al Host: "scp -P Port user@IP:nombre_archivo.txt dirección_destino" 
+Enviar archivos del Host al Guest: "scp -P Port dirección_archivo user@IP:"   
+Docker sin sudo: https://askubuntu.com/questions/477551/how-can-i-use-docker-without-sudo  
+Tutorial Instalar Jupyter Notebook: https://www.digitalocean.com/community/tutorials/how-to-set-up-a-jupyter-notebook-to-run-ipython-on-ubuntu-16-04  
+Instalar GO: https://medium.com/@patdhlk/how-to-install-go-1-9-1-on-ubuntu-16-04-ee64c073cd79 
+Para instalar hub: https://hub.github.com/ 
+Y el hilo donde mencionan a hub: https://stackoverflow.com/questions/35124997/creating-github-repository-from-command-line 
+Código recomendado por github para crear subir archivos al repositorio:
+ 	echo "# Tesis" >> README.md
+ 	git init
+ 	git add README.md
+ 	git commit -m "first commit"
+ 	git remote add origin https://github.com/netza2/Tesis.git
+ 	git push -u origin master
+    
+
+tutorial cobrapy Capítulo 7 y 8 Tutorial cobrapy   
