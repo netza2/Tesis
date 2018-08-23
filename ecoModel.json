@@ -18703,7 +18703,7 @@
 },
 {
 "id":"ACODA",
-"name":"acetylornithine deacetylase",
+"name":"Acelilornitina deacetilasa",
 "metabolites":{
 "ac_c":1.0,
 "acorn_c":-1.0,
@@ -19617,7 +19617,7 @@
 },
 {
 "id":"AGPR",
-"name":"N-acetyl-g-glutamyl-phosphate reductase",
+"name":"N-Acetilglutamil fosfato reductasa",
 "metabolites":{
 "acg5p_c":1.0,
 "acg5sa_c":-1.0,
@@ -19698,7 +19698,7 @@
 },
 {
 "id":"AKGDH",
-"name":"2-Oxogluterate dehydrogenase",
+"name":"2-Oxoglutarato deshidrogenasa",
 "metabolites":{
 "akg_c":-1.0,
 "co2_c":1.0,
@@ -25642,7 +25642,7 @@
 },
 {
 "id":"DXYLK",
-"name":"1-Deoxy-D-xylulose kinase",
+"name":"1-Desoxi-D-xilulosa quinasa",
 "metabolites":{
 "adp_c":1.0,
 "atp_c":-1.0,
@@ -26443,7 +26443,7 @@
 },
 {
 "id":"F6PA",
-"name":"fructose 6-phosphate aldolase",
+"name":"Fructosa 6-fosfato aldolasa",
 "metabolites":{
 "dha_c":1.0,
 "f6p_c":-1.0,
@@ -28727,7 +28727,7 @@
 },
 {
 "id":"G5SD",
-"name":"glutamate-5-semialdehyde dehydrogenase",
+"name":"Glutamato-5-semialdeh\u00eddo deshidrogenasa",
 "metabolites":{
 "glu5p_c":-1.0,
 "glu5sa_c":1.0,
@@ -29897,7 +29897,7 @@
 },
 {
 "id":"GLUPRT",
-"name":"glutamine phosphoribosyldiphosphate amidotransferase",
+"name":"Glutamina fosforribosildifosfato amidotransferasa",
 "metabolites":{
 "gln__L_c":-1.0,
 "glu__L_c":1.0,
@@ -31713,7 +31713,7 @@
 },
 {
 "id":"HISTP",
-"name":"histidinol-phosphatase",
+"name":"Histidinol fosfatasa",
 "metabolites":{
 "h2o_c":-1.0,
 "hisp_c":-1.0,
@@ -31976,7 +31976,7 @@
 },
 {
 "id":"HSK",
-"name":"homoserine kinase",
+"name":"Homoserina quinasa",
 "metabolites":{
 "adp_c":1.0,
 "atp_c":-1.0,
@@ -32306,7 +32306,7 @@
 },
 {
 "id":"ICYSDS",
-"name":"ISC ciste\u00edna desulfurasa",
+"name":"ISC Cysteine desulfuration",
 "metabolites":{
 "ala__L_c":1.0,
 "cys__L_c":-1.0,
@@ -32879,7 +32879,7 @@
 },
 {
 "id":"KG6PDC",
-"name":"3-keto-L-gulonate 6-phosphate decarboxylase",
+"name":"3-ceto-L-gulonato 6-fosfato descarboxilasa",
 "metabolites":{
 "3dhgulnp_c":-1.0,
 "co2_c":1.0,
@@ -38934,7 +38934,7 @@
 },
 {
 "id":"PDX5PS",
-"name":"Pyridoxine 5'-phosphate synthase",
+"name":"Piridoxina 5'-fosfato sintasa",
 "metabolites":{
 "co2_c":1.0,
 "dxyl5p_c":-1.0,
@@ -39103,7 +39103,7 @@
 },
 {
 "id":"PERD",
-"name":"Erythronate 4-phosphate (4per) dehydrogenase",
+"name":"Eritronato 4-fosfato deshidrogenasa",
 "metabolites":{
 "4per_c":-1.0,
 "h_c":1.0,
@@ -39372,7 +39372,7 @@
 },
 {
 "id":"PGLYCP",
-"name":"Phosphoglycolate phosphatase",
+"name":"Fosfoglicolato fosfatasa",
 "metabolites":{
 "2pglyc_c":-1.0,
 "glyclt_c":1.0,
@@ -39385,7 +39385,7 @@
 },
 {
 "id":"PGM",
-"name":"phosphoglycerate mutase",
+"name":"Fosfoglicerato mutasa",
 "metabolites":{
 "2pg_c":-1.0,
 "3pg_c":1.0
@@ -41039,7 +41039,7 @@
 },
 {
 "id":"PRAIi",
-"name":"phosphoribosylanthranilate isomerase (irreversible)",
+"name":"Fosforribosilantranilato isomerasa",
 "metabolites":{
 "2cpr5p_c":1.0,
 "pran_c":-1.0
@@ -41396,7 +41396,7 @@
 },
 {
 "id":"PSP_L",
-"name":"phosphoserine phosphatase (L-serine)",
+"name":"Fosfoserina fosfatasa",
 "metabolites":{
 "h2o_c":-1.0,
 "pi_c":1.0,
@@ -42706,7 +42706,7 @@
 },
 {
 "id":"SCYSDS",
-"name":"SUF ciste\u00edna desulfurasa",
+"name":"SUF Cysteine desulfuration",
 "metabolites":{
 "ala__L_c":1.0,
 "cys__L_c":-1.0,
@@ -44008,7 +44008,7 @@
 },
 {
 "id":"THRA2i",
-"name":"L-allo-Threonine Aldolase",
+"name":"L-alo-treonina aldolasa",
 "metabolites":{
 "acald_c":1.0,
 "athr__L_c":-1.0,
@@ -44020,7 +44020,7 @@
 },
 {
 "id":"THRAi",
-"name":"Threonine aldolase",
+"name":"Treonina aldolasa",
 "metabolites":{
 "acald_c":1.0,
 "gly_c":1.0,
@@ -44741,7 +44741,7 @@
 },
 {
 "id":"TYRL",
-"name":"Tirosina liasa",
+"name":"tyrosine lyase",
 "metabolites":{
 "4crsol_c":1.0,
 "amet_c":-1.0,
@@ -45289,7 +45289,7 @@
 },
 {
 "id":"UGMDDS",
-"name":"UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine synthetase",
+"name":"UDP-N-acetilmuramil-L-alanil-D-glutamil-meso-2,6-diaminopimeloil-D-alanil-D-alanine sintasa",
 "metabolites":{
 "adp_c":1.0,
 "alaala_c":-1.0,
@@ -45911,7 +45911,7 @@
 },
 {
 "id":"XYLK",
-"name":"xylulokinase",
+"name":"Xilulosa quinasa",
 "metabolites":{
 "adp_c":1.0,
 "atp_c":-1.0,
@@ -46067,6 +46067,112 @@
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"b0241 or b0929 or b1377 or b2215"
+},
+{
+"id":"PdsdS",
+"name":"3-Hexulosa fosfato sintasa",
+"metabolites":{
+"fald_c":-2.0,
+"h2o_c":-2.0,
+"h_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b4196"
+},
+{
+"id":"P5PS",
+"name":"Piridoxal 5'-fosfato sintasa",
+"metabolites":{
+"g3p_c":-1.0,
+"gln__L_c":-1.0,
+"glu__L_c":1.0,
+"h2o_c":3.0,
+"h_c":1.0,
+"pi_c":1.0,
+"pydx5p_c":1.0,
+"r5p_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3991"
+},
+{
+"id":"DXS",
+"name":"1-desoxi-D-xilulosa sintasa",
+"metabolites":{
+"acetol_c":-1.0,
+"dxyl_c":1.0,
+"gcald_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":0.01,
+"gene_reaction_rule":"b0825"
+},
+{
+"id":"3PHPDP_prom",
+"name":"3-Fosfohidroxipiruvato desfoforilasa",
+"metabolites":{
+"3php_c":-1.0,
+"h2o_c":-1.0,
+"hpyr_c":1.0,
+"pi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"( b4034 and b1813 )"
+},
+{
+"id":"HPDC_prom",
+"name":"Hidroxipiruvato descarboxilasa",
+"metabolites":{
+"co2_c":1.0,
+"gcald_c":1.0,
+"h_c":-1.0,
+"hpyr_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0420 or b0726"
+},
+{
+"id":"THRALD",
+"name":"4-Hidroxi-L-treonina aldolasa",
+"metabolites":{
+"4hthr_c":-1.0,
+"gcald_c":1.0,
+"gly_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0870"
+},
+{
+"id":"HTHRP_prom",
+"name":"4-hidroxi-L-treonina fosforilasa",
+"metabolites":{
+"4hthr_c":-1.0,
+"adp_c":1.0,
+"atp_c":-1.0,
+"h_c":1.0,
+"phthr_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b0003"
+},
+{
+"id":"AGLUSA",
+"name":"N-Acetil-L-Glutamato semialdeh\u00edo deacetilasa",
+"metabolites":{
+"ac_c":1.0,
+"acg5sa_c":-1.0,
+"glu5sa_c":1.0,
+"h2o_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"b3957"
 }
 ],
 "genes":[
@@ -51537,6 +51643,10 @@
 {
 "id":"b1857",
 "name":"b1857"
+},
+{
+"id":"b1813",
+"name":""
 }
 ],
 "id":"iJO1366",
